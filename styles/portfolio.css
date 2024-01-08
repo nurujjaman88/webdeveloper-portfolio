@@ -196,4 +196,18 @@ main {
     background-color: #FFF8F3;
     padding: 130px 200px;
     margin-top: 100px;
+    gap: 100px;
+}
+
+.footer-column{
+    width: 50%;
+    
+}
+
+.contact input, textarea{
+    display: flex;
+}
+.form{
+    height: 30px;
+    width: 350px;
 }
