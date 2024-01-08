@@ -211,3 +211,8 @@ main {
     height: 30px;
     width: 350px;
 }
+
+.contact textarea{
+    border-radius: 5px;
+background:#FFFdcf;
+}
