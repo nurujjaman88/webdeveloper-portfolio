@@ -190,14 +190,10 @@ main {
     margin-top: 40px;
 }
 
+
 .footer-section{
     display: flex;
     background-color: #FFF8F3;
-    padding: 30px 130px 30px 130px;
-    
-}
-
-.connects{
-    max-width: 500px;
-    justify-content: space-between;
+    padding: 130px 200px;
+    margin-top: 100px;
 }
